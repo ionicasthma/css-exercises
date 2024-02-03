@@ -1,0 +1,7 @@
+body is the beggining 
+body is the parent to header 
+
+body is the parent to content
+
+body is the parent to footer
+
